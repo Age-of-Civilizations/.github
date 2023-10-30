@@ -1,2 +1,1 @@
-# .github
-Info
+# Civil Host / Age of Civilizations Network
